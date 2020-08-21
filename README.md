@@ -6,6 +6,6 @@
 ![colab jupyter notebook](https://colab.research.google.com/github/borisdayma/huggingtweets/blob/master/huggingtweets-demo.ipynb#scrollTo=CpxBQYF88AHJ)
 
 
-![print screen](img/Screenshot-2020-5-30_Colab_1.png)
+![print screen](img/huggingtweets_desireyavro.png)
 
 
